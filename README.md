@@ -16,7 +16,7 @@
 📄 &nbsp;Please have a look at my <a target="_blank">[CV(Resume)](https://www.canva.com/design/DAFcBjgMQ98/6kCgtBHlNKgueQRvLUx2jw/view?utm_content=DAFcBjgMQ98&utm_campaign=designshare&utm_medium=link&utm_source=editor)</a> for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width="200px" height="200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechnicmentors.com%2Fweb-development-services&psig=AOvVaw0rY8yiaiIvXWddzQGVJi3c&ust=1712722129914000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjX0b6iobSFAxVlsmoFHTR1CwUQjRx6BAgAEBU" align="right"/>
 
 ### 🛠 &nbsp;Basics
 
