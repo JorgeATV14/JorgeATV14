@@ -1,68 +1,82 @@
 ![JTDev Banner](https://github.com/JorgeATV14/JorgeATV14/blob/c7fa636b2b5f8ec6358d7f94e9aa39673625faed/banner_jtdev.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jorge Torres</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Jorge Torres
+</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Hey there! I'm Jorge Torres -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;I currently work as a FullStack Developer.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I have an Engineering degree in Computer Systems with a specialty in Multiplatform Apps.\
+🌱 &nbsp;I like to learn technologies related to mobile and web development.\
+✍️ &nbsp;In my free time, I like to draw, go hiking, do activities to help the community.\
+✉️ &nbsp;You can email me at <strong>jorgealbertovidal14@gmail.com!</strong>.\
+📄 &nbsp;Please have a look at my <a target="_blank">[CV(Resume)](https://www.canva.com/design/DAFcBjgMQ98/6kCgtBHlNKgueQRvLUx2jw/view?utm_content=DAFcBjgMQ98&utm_campaign=designshare&utm_medium=link&utm_source=editor)</a> for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Basics
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+<br>
 
-### 🗃 &nbsp;Databases
+### 🛠 &nbsp;Languages
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Static Badge](https://img.shields.io/badge/PHP-Lang?style=for-the-badge&logo=php&labelColor=CDE3EB&color=CDE3EB)&nbsp;
+![Static Badge](https://img.shields.io/badge/Typescript-Lang?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=1B6DBF&color=1B6DBF)
+<br>
+
+### 🛠 &nbsp;Frameworks & Libraries
+![laravel](https://img.shields.io/badge/Laravel-fram?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=BF1B1B&color=BF1B1B)
+![yii2](https://img.shields.io/badge/YII2-fram?style=for-the-badge&logo=yii2&logoColor=FFFFFF)
+![react js](https://img.shields.io/badge/React%20JS-lib?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=15A1DE&color=15A1DE)
+![react native](https://img.shields.io/badge/React%20Native-lib?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=1A71C7&color=1A71C7)
+![ajax](https://img.shields.io/badge/AJAX-lib?style=for-the-badge&logo=ajax&logoColor=FFFFFF&labelColor=C7611A&color=C7611A)
+![jquery](https://img.shields.io/badge/Jquery-lib?style=for-the-badge&logo=jquery&logoColor=FFFFFF&labelColor=3F0C81&color=3F0C81)
+![wordpress](https://img.shields.io/badge/Wordpress-tool?style=for-the-badge&logo=wordpress&logoColor=FFFFF&labelColor=%23566573&color=%23566573)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Material Design](https://img.shields.io/badge/Material%20Design-lib?style=for-the-badge&logo=material%20Design&logoColor=FFFFFF&labelColor=2079BF&color=2079BF)
+![Dhtmlx](https://img.shields.io/badge/DHTMLX-lib?style=for-the-badge&logo=dhtmlx&logoColor=FFFFFF&labelColor=%232471A3&color=%232471A3)
+![Native Base](https://img.shields.io/badge/Native%20Base-lib?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=%2385C1E9&color=%2385C1E9)
+
+
+
+### 🗃 &nbsp;Databases & tools
+![Sql Server](https://img.shields.io/badge/Sql%20server-bd?style=for-the-badge&logo=sqlserver&logoColor=FFFFFF&labelColor=%235DADE2&color=%235DADE2)
+![Mysql](https://img.shields.io/badge/MySql-bd?style=for-the-badge&logo=mysql&logoColor=%23154360&labelColor=%23AED6F1&color=%23AED6F1)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+<br>
+![dbeaver](https://img.shields.io/badge/DBeaver-tool?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF&labelColor=%237B241C&color=%237B241C)
+![Navicat](https://img.shields.io/badge/Navicat-tool?style=for-the-badge&logo=navicat&logoColor=cccccc&labelColor=%23F4D03F&color=%23F4D03F)
+![SSMS](https://img.shields.io/badge/SSMS-tool?style=for-the-badge&logo=microsoft&logoColor=FFFFF&labelColor=%231A5276&color=%231A5276)
+![Workbench](https://img.shields.io/badge/Workbench-tool?style=for-the-badge&logo=workbench&logoColor=FFFFF&labelColor=%232E4053&color=%232E4053)
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Source Tree](https://img.shields.io/badge/Source%20Tree-bd?style=for-the-badge&logo=sourcetree&logoColor=FFFFFF&labelColor=%232471A3&color=%232471A3)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
+<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+<br>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Click Up](https://img.shields.io/badge/Click%20Up-lib?style=for-the-badge&logo=clickup&logoColor=FFFFFF&labelColor=%23BB8FCE&color=%23BB8FCE)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
